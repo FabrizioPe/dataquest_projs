@@ -1,2 +1,3 @@
 # dataquest_projs
-The repository for my Data Science projects at Dataquest
+I'm working on the "Data Scientist in Python" career path on the Dataquest platform.
+In this repository, I collect all the projects I consider worth sharing.
